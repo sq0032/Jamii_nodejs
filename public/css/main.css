@@ -1,0 +1,47 @@
+/*
+.ui-selected,
+.ui-selecting{
+	background-color	:#C0C0C0;
+	color				:#000000;
+}
+*/
+
+.click-selected{
+	background-color	:#C0C0C0;
+	color				:#000000;
+}
+
+/*
+.ui-selecting{
+	background-color	:#C0C0C0;
+	color				:#000000;
+}
+
+.ui-unselecting{
+	background-color	:#ffffff;
+	color				:#C0C0C0;
+}
+*/
+
+.selectable{
+	width		:120px;
+	margin		:auto;
+	border		:1px black solid;
+	text-align	:center;
+	color		:#C0C0C0;
+	float		:left;
+}
+
+.ui-widget-content{
+	min-height	:25px;
+	border		:1px black solid;
+}
+
+.ui-selectable-helper{
+	border		:1px black dotted;
+	position	:absolute;
+}
+
+.rowdiv{
+	display		:inline;
+}
